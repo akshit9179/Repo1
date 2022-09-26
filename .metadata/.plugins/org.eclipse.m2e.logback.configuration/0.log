@@ -694,3 +694,8 @@ java.io.FileNotFoundException: D:\repositary\Repo1\.metadata\.plugins\org.eclips
 2022-09-26 10:48:10,227 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\repositary\Repo1\project1-frontend\src\main\resources
 2022-09-26 10:48:10,229 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-26 10:48:10,229 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\repositary\Repo1\project1-frontend\src\test\resources
+2022-09-26 10:48:46,294 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 10:48:46,294 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\repositary\Repo1\project1-frontend\src\main\resources
+2022-09-26 10:48:46,294 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\repositary\Repo1\project1-frontend\src\main\resources
+2022-09-26 10:48:46,296 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 10:48:46,296 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\repositary\Repo1\project1-frontend\src\test\resources
